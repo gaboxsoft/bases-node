@@ -1,7 +1,7 @@
 
 ## App de consola: Multiplicar 
 
-Genera un atabla de multiplicar, que puede ser personalizada.
+Genera tabla(s) de multiplicar, que puede ser personalizada.
 Usando las opciones en línea de comandos:
 app [listar/crear] --base=[n/all] --limite=[m]
 donde el comando listar muestra la salida a pantalla
